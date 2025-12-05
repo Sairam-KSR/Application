@@ -1,0 +1,2 @@
+# Application
+This repo is bascially for how to handle conflict between 2 developer branches
